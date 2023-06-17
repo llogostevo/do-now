@@ -7,7 +7,7 @@ export default function Home() {
   className="rounded-lg bg-white p-6 shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-neutral-700 grid grid-cols-4 gap-x-12">
   <div className="flex flex-col items-center justify-center col-span-3">
   <h5 className="mb-2 text-xs font-medium leading-tight text-neutral-800 dark:text-neutral-50">
-    Geography - Edexcel Unit 1
+    Geography - Edexcel - Unit 1
   </h5>
   <h1 className="mb-2 text-xl">Do Now</h1>
   <h1 className="mb-2 text-4xl">Write what you know</h1>
