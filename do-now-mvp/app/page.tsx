@@ -29,7 +29,7 @@ metamorphic (schists, slates).
     <ul className="flex flex-col gap-3">
       <li className="text-xl">Knowledge / Comprehension (4)</li>
       <li>Identify key features</li>
-      <li className="w-1/2">Explain use/purpose</li>
+      <li className="w-1/2">Explain reasons/use/purpose</li>
       <li className="w-1/2">Give examples / sketch / annotate</li>
     </ul>
   </li>
